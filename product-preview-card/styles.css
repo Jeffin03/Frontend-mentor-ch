@@ -1,0 +1,101 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(30, 38%, 92%);
+}
+
+.main {
+  width: 500px;
+  height: 375px;
+  margin: 135px auto;
+  padding: 0%;
+  display: flex;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.section-left img {
+  width: 249px;
+  padding: 0%;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.section-right {
+  padding: 20px;
+}
+
+.text-one p {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  justify-content: space-between;
+  color: grey;
+  font-size: 12px;
+  padding: 10px 0;
+}
+
+.text-two h2 {
+  font-family: "Fraunces", sans-serif;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 1;
+  margin-bottom: 20px;
+}
+
+.des p {
+  color: rgb(125, 121, 121);
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.price {
+  display: flex;
+}
+
+.sale-price p {
+  color: hsl(158, 36%, 37%);
+  font-family: "Fraunces", sans-serif;
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.real-price p {
+  color: rgb(125, 121, 121);
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  margin: 12px auto 0 12px;
+}
+
+.cartbtn {
+  background-color: hsl(158, 36%, 37%);
+  display: flex;
+  margin: 15px auto;
+  height: 35px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cartbtn p {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  padding-left: 10px;
+}
+
+.cartbtn:hover {
+  background-color: hsl(159, 56%, 16%);
+}

@@ -1,0 +1,121 @@
+@import url('https://fonts.google.com/specimen/Lexend+Deca');
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Outfit&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-card{
+    width: 750px;
+    background-color: aquamarine;
+    height: 390px;
+    display: flex;
+    border-radius: 5px;
+    overflow:hidden;
+
+}
+
+.sub-card1{
+    height: 100%;
+    width:250px;
+    background-color: hsl(31, 77%, 52%);
+    padding:40px;
+}
+
+.sub-card2{
+    height: 100%;
+    width:250px;
+    background-color:hsl(184, 100%, 22%);
+    padding:40px;
+}
+
+.sub-card3{
+    height: 100%;
+    width:250px;
+    background-color: hsl(179, 100%, 13%);
+    padding:40px;
+}
+
+.heading{
+    font-family: 'Big Shoulders Display',sans-serif;
+    font-weight: 700;
+    font-size:30px;
+    color:hsl(0, 0%, 95%);
+    margin: 25px 0;
+}
+
+.para{
+    font-family: 'Lexend Deca',sans-serif;
+    font-family:400;
+    font-size:14px;
+    color:hsla(0,0%,100%,0.75);
+    margin: 10px 0;
+   
+}
+
+.info-button{
+    margin:55px 10px;
+    background-color:  hsl(0, 0%, 95%);
+    font-family:'Lexend Deca',sans-serif;
+    font-weight: 700;
+    text-align: center;
+    height:36px;
+    width:140px;
+    padding-top: 9px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    
+}
+
+.info-button:hover{
+    background-color: hsl(0, 0%, 15%);
+}
+
+.sub-card2 :last-child{
+    margin:54px 0;
+    color:hsl(184, 100%, 22%);
+}
+
+.sub-card1 :last-child{
+    color:hsl(31, 77%, 52%);
+
+}
+
+.sub-card3 :last-child{
+    color:hsl(179, 100%, 13%);
+}
+
+@media (max-width: 768px){
+    .main-card {
+        flex-direction: column;
+        height: 1200px;
+        width: 250px;
+        margin-top: 20px;
+      }
+    
+    .sub-card1{
+        order:-1;
+        height:400px
+
+    }
+    .sub-card2{
+        height:400px;
+        order:-1;
+
+    }
+
+    .sub-card3{
+        order:1;
+        height:400px;
+    }
+}
+

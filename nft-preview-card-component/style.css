@@ -1,0 +1,88 @@
+@import url(https://fonts.google.com/specimen/Outfit);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+}
+
+main {
+  width: 310px;
+  height: 520px;
+  margin: 80px auto;
+  color: white;
+  background-color: hsl(216, 50%, 16%);
+  padding: 30px;
+  border-radius: 15px;
+  box-shadow:1px 18px 2px 18px hsl(215, 65%, 10%);
+ 
+  
+}
+
+.main-img img {
+  width: 250px;
+  padding: 0%;
+  border-radius: 15px;
+ 
+}
+
+.author-section img {
+  width: 50px;
+  border: 1.3px solid white;
+  border-radius: 80px;
+}
+
+.author-section {
+  display: flex;
+  padding: 10px 10px;
+}
+
+main p {
+  font-size: 15px;
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+}
+
+.author-section b {
+  font-weight: 300;
+  color: aliceblue;
+}
+
+.section h2 {
+  font-weight: 600;
+  margin: 15px auto;
+}
+
+.section p {
+  margin: 15px auto;
+}
+
+.section-down {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px auto;
+}
+
+.sd-right {
+  color: hsl(215, 51%, 70%);
+}
+
+.section-down svg {
+  margin-right: 5px;
+}
+
+.sd-left {
+  color: hsl(178, 100%, 50%);
+  font-weight: 600;
+}
+
+.custom-hr {
+  border: none; 
+  height: 1.5px; 
+  background-color: hsl(215, 32%, 27%); 
+}
