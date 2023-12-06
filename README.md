@@ -6,40 +6,40 @@ This Monorepo will house all of my Frontend Mentor challenge solutions.
 
 ### QR Code Viewer
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/qr-code-viewer/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/qr-code-viewer/](https://jeffin03.github.io/frontend-mentor-ch/qr-code-viewer/)
 
 ### Result Summary Component
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/Result-Summary-Component/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/Result-Summary-Component/](https://jeffin03.github.io/frontend-mentor-ch/Result-Summary-Component/)
 
 ### Four Card Feature Component
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/four-card-feature-solution/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/four-card-feature-solution/](https://jeffin03.github.io/frontend-mentor-ch/four-card-feature-solution/)
 
 ### Huddle Landing Page
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/huddle-landing-page/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/huddle-landing-page/](https://jeffin03.github.io/frontend-mentor-ch/huddle-landing-page/)
 
 ### NFT Preview Card
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/nft-preview-card-component/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/nft-preview-card-component/](https://jeffin03.github.io/frontend-mentor-ch/nft-preview-card-component/)
 
 ### Order Summary Component
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/order-summary-component/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/order-summary-component/](https://jeffin03.github.io/frontend-mentor-ch/order-summary-component/)
 
 ### Product Preview Card
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/product-preview-card/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/product-preview-card/](https://jeffin03.github.io/frontend-mentor-ch/product-preview-card/)
 
 ### Profile Card Component
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/profile-card-solution/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/profile-card-solution/](https://jeffin03.github.io/frontend-mentor-ch/profile-card-solution/)
 
 ### Single Price Grid Component
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/single-price-grid-component/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/single-price-grid-component/](https://jeffin03.github.io/frontend-mentor-ch/single-price-grid-component/)
 
 ### Tri-Column Card
 
-live site url: [https://jeffin03.github.io/frontend-mentor-ch/tri-column-card/]
+live site url: [https://jeffin03.github.io/frontend-mentor-ch/tri-column-card/](https://jeffin03.github.io/frontend-mentor-ch/tri-column-card/)
